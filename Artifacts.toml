@@ -1,0 +1,8 @@
+[[OpenBLAS]]
+arch = "aarch64"
+git-tree-sha1 = "b3a54a9936b88c915aa8728265df3b5a11b36d2f"
+os = "macos"
+
+    [[OpenBLAS.download]]
+    sha256 = "192696b147fea9c9bdff1aae5516870f466bd1ce53c20e248d457f6613cc41ba"
+    url = "https://github.com/Keno/OpenBLASAArch64_jll/releases/download/OpenBLAS-v0.3.10+1/OpenBLAS.v0.3.10.aarch64-apple-darwin14.tar.gz"
